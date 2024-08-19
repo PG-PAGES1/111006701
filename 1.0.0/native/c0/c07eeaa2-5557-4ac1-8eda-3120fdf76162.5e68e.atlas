@@ -1,0 +1,20 @@
+
+boxer_appear.png
+size: 776,677
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+reel_ui/f_boss
+  rotate: false
+  xy: 404, 54
+  size: 370, 621
+  orig: 370, 621
+  offset: 0, 0
+  index: -1
+reel_ui/f_fighter
+  rotate: false
+  xy: 2, 2
+  size: 400, 673
+  orig: 400, 673
+  offset: 0, 0
+  index: -1

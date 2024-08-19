@@ -1,0 +1,564 @@
+
+big_win.png
+size: 1384,1249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_ember_particle/bw_ember_a_00
+  rotate: false
+  xy: 28, 1143
+  size: 158, 104
+  orig: 184, 188
+  offset: 5, 45
+  index: -1
+bw_ember_particle/bw_ember_a_01
+  rotate: false
+  xy: 2, 441
+  size: 174, 136
+  orig: 184, 188
+  offset: 1, 33
+  index: -1
+bw_ember_particle/bw_ember_a_02
+  rotate: false
+  xy: 176, 265
+  size: 182, 160
+  orig: 184, 188
+  offset: 1, 25
+  index: -1
+bw_ember_particle/bw_ember_a_03
+  rotate: false
+  xy: 730, 220
+  size: 184, 172
+  orig: 184, 188
+  offset: 0, 16
+  index: -1
+bw_ember_particle/bw_ember_a_04
+  rotate: false
+  xy: 916, 210
+  size: 184, 182
+  orig: 184, 188
+  offset: 0, 6
+  index: -1
+bw_ember_particle/bw_ember_a_05
+  rotate: false
+  xy: 1102, 206
+  size: 184, 184
+  orig: 184, 188
+  offset: 0, 4
+  index: -1
+bw_ember_particle/bw_ember_a_06
+  rotate: false
+  xy: 2, 79
+  size: 184, 184
+  orig: 184, 188
+  offset: 0, 2
+  index: -1
+bw_ember_particle/bw_ember_a_07
+  rotate: true
+  xy: 188, 44
+  size: 184, 188
+  orig: 184, 188
+  offset: 0, 0
+  index: -1
+bw_ember_particle/bw_ember_a_08
+  rotate: true
+  xy: 378, 44
+  size: 184, 188
+  orig: 184, 188
+  offset: 0, 0
+  index: -1
+bw_ember_particle/bw_ember_a_09
+  rotate: false
+  xy: 360, 230
+  size: 182, 170
+  orig: 184, 188
+  offset: 2, 1
+  index: -1
+bw_ember_particle/bw_ember_a_10
+  rotate: false
+  xy: 544, 230
+  size: 184, 170
+  orig: 184, 188
+  offset: 0, 1
+  index: -1
+bw_ember_particle/bw_ember_a_11
+  rotate: false
+  xy: 880, 394
+  size: 168, 156
+  orig: 184, 188
+  offset: 3, 16
+  index: -1
+bw_ember_particle/bw_ember_a_12
+  rotate: false
+  xy: 2, 277
+  size: 172, 162
+  orig: 184, 188
+  offset: 1, 12
+  index: -1
+bw_ember_particle/bw_ember_a_13
+  rotate: false
+  xy: 1210, 392
+  size: 172, 158
+  orig: 184, 188
+  offset: 2, 13
+  index: -1
+bw_ember_particle/bw_ember_a_14
+  rotate: false
+  xy: 178, 427
+  size: 174, 146
+  orig: 184, 188
+  offset: 1, 12
+  index: -1
+bw_ember_particle/bw_ember_a_15
+  rotate: false
+  xy: 530, 402
+  size: 174, 148
+  orig: 184, 188
+  offset: 1, 11
+  index: -1
+bw_ember_particle/bw_ember_a_16
+  rotate: false
+  xy: 706, 402
+  size: 172, 148
+  orig: 184, 188
+  offset: 3, 10
+  index: -1
+bw_ember_particle/bw_ember_a_17
+  rotate: false
+  xy: 354, 427
+  size: 174, 146
+  orig: 184, 188
+  offset: 2, 9
+  index: -1
+bw_ember_particle/bw_ember_a_18
+  rotate: true
+  xy: 1152, 1117
+  size: 130, 140
+  orig: 184, 188
+  offset: 30, 9
+  index: -1
+bw_switch_fire/bw_fire_impact_00
+  rotate: false
+  xy: 2, 1223
+  size: 24, 24
+  orig: 216, 336
+  offset: 93, 156
+  index: -1
+bw_switch_fire/bw_fire_impact_01
+  rotate: false
+  xy: 1050, 394
+  size: 158, 156
+  orig: 216, 336
+  offset: 23, 91
+  index: -1
+bw_switch_fire/bw_fire_impact_02
+  rotate: false
+  xy: 1168, 2
+  size: 202, 202
+  orig: 216, 336
+  offset: 1, 70
+  index: -1
+su_fire/loading_fire_00
+  rotate: false
+  xy: 646, 916
+  size: 320, 111
+  orig: 324, 119
+  offset: 3, 8
+  index: -1
+su_fire/loading_fire_01
+  rotate: false
+  xy: 968, 893
+  size: 322, 111
+  orig: 324, 119
+  offset: 1, 8
+  index: -1
+su_fire/loading_fire_02
+  rotate: false
+  xy: 650, 1029
+  size: 322, 109
+  orig: 324, 119
+  offset: 1, 9
+  index: -1
+su_fire/loading_fire_03
+  rotate: false
+  xy: 188, 1140
+  size: 322, 107
+  orig: 324, 119
+  offset: 1, 9
+  index: -1
+su_fire/loading_fire_04
+  rotate: false
+  xy: 512, 1140
+  size: 320, 107
+  orig: 324, 119
+  offset: 2, 9
+  index: -1
+su_fire/loading_fire_05
+  rotate: false
+  xy: 974, 1006
+  size: 322, 109
+  orig: 324, 119
+  offset: 1, 9
+  index: -1
+su_fire/loading_fire_06
+  rotate: false
+  xy: 2, 807
+  size: 322, 111
+  orig: 324, 119
+  offset: 1, 8
+  index: -1
+su_fire/loading_fire_07
+  rotate: false
+  xy: 968, 780
+  size: 324, 111
+  orig: 324, 119
+  offset: 0, 8
+  index: -1
+su_fire/loading_fire_08
+  rotate: false
+  xy: 2, 694
+  size: 324, 111
+  orig: 324, 119
+  offset: 0, 8
+  index: -1
+su_fire/loading_fire_09
+  rotate: false
+  xy: 328, 690
+  size: 324, 111
+  orig: 324, 119
+  offset: 0, 8
+  index: -1
+su_fire/loading_fire_10
+  rotate: false
+  xy: 654, 667
+  size: 324, 111
+  orig: 324, 119
+  offset: 0, 8
+  index: -1
+su_fire/loading_fire_11
+  rotate: false
+  xy: 980, 667
+  size: 324, 111
+  orig: 324, 119
+  offset: 0, 8
+  index: -1
+su_fire/loading_fire_12
+  rotate: false
+  xy: 2, 579
+  size: 322, 113
+  orig: 324, 119
+  offset: 2, 6
+  index: -1
+su_fire/loading_fire_13
+  rotate: false
+  xy: 326, 575
+  size: 322, 113
+  orig: 324, 119
+  offset: 2, 6
+  index: -1
+su_fire/loading_fire_14
+  rotate: false
+  xy: 650, 552
+  size: 322, 113
+  orig: 324, 119
+  offset: 2, 6
+  index: -1
+su_fire/loading_fire_15
+  rotate: false
+  xy: 974, 552
+  size: 322, 113
+  orig: 324, 119
+  offset: 2, 6
+  index: -1
+su_fire/loading_fire_16
+  rotate: false
+  xy: 834, 1140
+  size: 316, 107
+  orig: 324, 119
+  offset: 7, 10
+  index: -1
+su_fire/loading_fire_17
+  rotate: false
+  xy: 326, 807
+  size: 318, 111
+  orig: 324, 119
+  offset: 5, 8
+  index: -1
+su_fire/loading_fire_18
+  rotate: false
+  xy: 2, 920
+  size: 320, 109
+  orig: 324, 119
+  offset: 3, 10
+  index: -1
+su_fire/loading_fire_19
+  rotate: false
+  xy: 646, 803
+  size: 320, 111
+  orig: 324, 119
+  offset: 3, 8
+  index: -1
+su_fire/loading_fire_20
+  rotate: false
+  xy: 324, 920
+  size: 320, 109
+  orig: 324, 119
+  offset: 3, 9
+  index: -1
+su_fire/loading_fire_21
+  rotate: false
+  xy: 2, 1031
+  size: 322, 107
+  orig: 324, 119
+  offset: 1, 9
+  index: -1
+su_fire/loading_fire_22
+  rotate: false
+  xy: 326, 1031
+  size: 322, 107
+  orig: 324, 119
+  offset: 1, 10
+  index: -1
+su_particle/loading_ember_04
+  rotate: false
+  xy: 868, 10
+  size: 298, 194
+  orig: 378, 212
+  offset: 58, 11
+  index: -1
+su_particle/loading_ember_09
+  rotate: false
+  xy: 568, 30
+  size: 298, 188
+  orig: 378, 212
+  offset: 56, 6
+  index: -1
+
+big_win2.png
+size: 1384,1265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_switch_fire/bw_fire_impact_03
+  rotate: true
+  xy: 902, 438
+  size: 216, 232
+  orig: 216, 336
+  offset: 0, 54
+  index: -1
+bw_switch_fire/bw_fire_impact_04
+  rotate: true
+  xy: 1136, 438
+  size: 216, 244
+  orig: 216, 336
+  offset: 0, 47
+  index: -1
+bw_switch_fire/bw_fire_impact_05
+  rotate: true
+  xy: 2, 247
+  size: 216, 254
+  orig: 216, 336
+  offset: 0, 43
+  index: -1
+bw_switch_fire/bw_fire_impact_06
+  rotate: true
+  xy: 258, 241
+  size: 216, 264
+  orig: 216, 336
+  offset: 0, 39
+  index: -1
+bw_switch_fire/bw_fire_impact_07
+  rotate: true
+  xy: 524, 239
+  size: 216, 276
+  orig: 216, 336
+  offset: 0, 33
+  index: -1
+bw_switch_fire/bw_fire_impact_08
+  rotate: true
+  xy: 802, 220
+  size: 216, 284
+  orig: 216, 336
+  offset: 0, 28
+  index: -1
+bw_switch_fire/bw_fire_impact_09
+  rotate: true
+  xy: 1088, 220
+  size: 216, 294
+  orig: 216, 336
+  offset: 0, 24
+  index: -1
+bw_switch_fire/bw_fire_impact_10
+  rotate: true
+  xy: 254, 21
+  size: 216, 304
+  orig: 216, 336
+  offset: 0, 20
+  index: -1
+bw_switch_fire/bw_fire_impact_11
+  rotate: true
+  xy: 560, 2
+  size: 216, 312
+  orig: 216, 336
+  offset: 0, 16
+  index: -1
+bw_switch_fire/bw_fire_impact_12
+  rotate: true
+  xy: 874, 2
+  size: 216, 316
+  orig: 216, 336
+  offset: 0, 13
+  index: -1
+bw_switch_fire/bw_fire_impact_15
+  rotate: true
+  xy: 2, 29
+  size: 216, 250
+  orig: 216, 336
+  offset: 0, 43
+  index: -1
+light_type/loading_flare_b
+  rotate: false
+  xy: 1154, 860
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+reel_ui/bw_design_b
+  rotate: false
+  xy: 2, 1067
+  size: 414, 196
+  orig: 416, 197
+  offset: 0, 0
+  index: -1
+reel_ui/mw_design_a
+  rotate: false
+  xy: 418, 1067
+  size: 557, 196
+  orig: 560, 207
+  offset: 2, 7
+  index: -1
+reel_ui/smw_design_a
+  rotate: false
+  xy: 2, 869
+  size: 556, 196
+  orig: 557, 199
+  offset: 0, 2
+  index: -1
+su_particle/loading_ember_00
+  rotate: false
+  xy: 600, 663
+  size: 304, 202
+  orig: 378, 212
+  offset: 49, 6
+  index: -1
+su_particle/loading_ember_01
+  rotate: false
+  xy: 302, 459
+  size: 296, 206
+  orig: 378, 212
+  offset: 47, 6
+  index: -1
+su_particle/loading_ember_02
+  rotate: false
+  xy: 600, 457
+  size: 300, 204
+  orig: 378, 212
+  offset: 45, 6
+  index: -1
+su_particle/loading_ember_03
+  rotate: false
+  xy: 906, 656
+  size: 304, 202
+  orig: 378, 212
+  offset: 43, 9
+  index: -1
+su_particle/loading_ember_05
+  rotate: false
+  xy: 977, 1067
+  size: 298, 196
+  orig: 378, 212
+  offset: 57, 9
+  index: -1
+su_particle/loading_ember_06
+  rotate: false
+  xy: 302, 667
+  size: 296, 200
+  orig: 378, 212
+  offset: 57, 12
+  index: -1
+su_particle/loading_ember_07
+  rotate: false
+  xy: 560, 869
+  size: 294, 196
+  orig: 378, 212
+  offset: 58, 15
+  index: -1
+su_particle/loading_ember_08
+  rotate: false
+  xy: 2, 465
+  size: 298, 202
+  orig: 378, 212
+  offset: 55, 4
+  index: -1
+su_particle/loading_ember_10
+  rotate: false
+  xy: 2, 669
+  size: 298, 198
+  orig: 378, 212
+  offset: 57, 7
+  index: -1
+su_particle/loading_ember_11
+  rotate: false
+  xy: 856, 867
+  size: 296, 198
+  orig: 378, 212
+  offset: 54, 7
+  index: -1
+
+big_win3.png
+size: 1231,659
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_switch_fire/bw_fire_impact_13
+  rotate: true
+  xy: 292, 2
+  size: 216, 318
+  orig: 216, 336
+  offset: 0, 10
+  index: -1
+bw_switch_fire/bw_fire_impact_14
+  rotate: true
+  xy: 612, 7
+  size: 216, 316
+  orig: 216, 336
+  offset: 0, 8
+  index: -1
+light_type/bw_flare_a
+  rotate: true
+  xy: 562, 225
+  size: 432, 420
+  orig: 432, 420
+  offset: 0, 0
+  index: -1
+reel_ui/bw_design_a
+  rotate: true
+  xy: 984, 259
+  size: 398, 245
+  orig: 400, 246
+  offset: 0, 0
+  index: -1
+reel_ui/mw_design_b
+  rotate: true
+  xy: 292, 220
+  size: 437, 268
+  orig: 445, 272
+  offset: 4, 2
+  index: -1
+reel_ui/smw_design_b
+  rotate: true
+  xy: 2, 16
+  size: 641, 288
+  orig: 644, 291
+  offset: 2, 1
+  index: -1

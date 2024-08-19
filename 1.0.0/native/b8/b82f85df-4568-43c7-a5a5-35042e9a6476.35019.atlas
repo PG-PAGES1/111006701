@@ -1,0 +1,125 @@
+
+jiasu.png
+size: 1356,822
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 1154, 575
+  size: 200, 245
+  orig: 200, 245
+  offset: 0, 0
+  index: -1
+reel_su_frame_fire/fs_glow_00
+  rotate: false
+  xy: 2, 508
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_01
+  rotate: false
+  xy: 2, 194
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_02
+  rotate: true
+  xy: 2, 2
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_03
+  rotate: false
+  xy: 194, 508
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_04
+  rotate: false
+  xy: 194, 194
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_05
+  rotate: true
+  xy: 316, 2
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_06
+  rotate: false
+  xy: 386, 508
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_07
+  rotate: false
+  xy: 386, 194
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_08
+  rotate: false
+  xy: 578, 508
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_09
+  rotate: false
+  xy: 578, 194
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_10
+  rotate: true
+  xy: 630, 2
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_11
+  rotate: false
+  xy: 770, 508
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_12
+  rotate: false
+  xy: 770, 194
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_13
+  rotate: true
+  xy: 944, 2
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_14
+  rotate: false
+  xy: 962, 508
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1
+reel_su_frame_fire/fs_glow_15
+  rotate: false
+  xy: 962, 194
+  size: 190, 312
+  orig: 190, 318
+  offset: 0, 6
+  index: -1

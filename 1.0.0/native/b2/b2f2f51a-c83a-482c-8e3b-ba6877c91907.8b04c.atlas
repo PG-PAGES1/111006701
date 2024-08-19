@@ -1,0 +1,188 @@
+
+win.png
+size: 904,730
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lattice_animation/ps_glow_wave_00
+  rotate: false
+  xy: 680, 438
+  size: 100, 114
+  orig: 108, 120
+  offset: 4, 5
+  index: -1
+lattice_animation/ps_glow_wave_01
+  rotate: true
+  xy: 780, 336
+  size: 100, 114
+  orig: 108, 120
+  offset: 4, 5
+  index: -1
+lattice_animation/ps_glow_wave_02
+  rotate: false
+  xy: 782, 438
+  size: 100, 114
+  orig: 108, 120
+  offset: 4, 5
+  index: -1
+lattice_animation/ps_glow_wave_03
+  rotate: true
+  xy: 780, 234
+  size: 100, 114
+  orig: 108, 120
+  offset: 4, 5
+  index: -1
+lattice_animation/ps_glow_wave_04
+  rotate: false
+  xy: 686, 118
+  size: 100, 114
+  orig: 108, 120
+  offset: 4, 5
+  index: -1
+lattice_animation/ps_glow_wave_05
+  rotate: false
+  xy: 686, 2
+  size: 100, 114
+  orig: 108, 120
+  offset: 4, 5
+  index: -1
+lattice_animation/ps_glow_wave_06
+  rotate: true
+  xy: 788, 132
+  size: 100, 114
+  orig: 108, 120
+  offset: 4, 5
+  index: -1
+lattice_animation/ps_glow_wave_07
+  rotate: false
+  xy: 788, 16
+  size: 100, 114
+  orig: 108, 120
+  offset: 4, 5
+  index: -1
+lattice_animation/ps_glow_wave_08
+  rotate: false
+  xy: 678, 279
+  size: 100, 114
+  orig: 108, 120
+  offset: 4, 5
+  index: -1
+lattice_frame_animation/ps_glow_00
+  rotate: false
+  xy: 526, 236
+  size: 150, 157
+  orig: 200, 215
+  offset: 27, 29
+  index: -1
+lattice_frame_animation/ps_glow_01
+  rotate: false
+  xy: 526, 395
+  size: 152, 157
+  orig: 200, 215
+  offset: 26, 29
+  index: -1
+lattice_frame_animation/ps_glow_02
+  rotate: false
+  xy: 522, 25
+  size: 162, 169
+  orig: 200, 215
+  offset: 21, 23
+  index: -1
+lattice_frame_animation/ps_glow_03
+  rotate: false
+  xy: 354, 21
+  size: 166, 173
+  orig: 200, 215
+  offset: 19, 21
+  index: -1
+lattice_frame_animation/ps_glow_04
+  rotate: false
+  xy: 354, 375
+  size: 170, 177
+  orig: 200, 215
+  offset: 16, 19
+  index: -1
+lattice_frame_animation/ps_glow_05
+  rotate: false
+  xy: 354, 196
+  size: 170, 177
+  orig: 200, 215
+  offset: 16, 19
+  index: -1
+lattice_frame_animation/ps_glow_06
+  rotate: false
+  xy: 2, 549
+  size: 174, 179
+  orig: 200, 215
+  offset: 15, 18
+  index: -1
+lattice_frame_animation/ps_glow_07
+  rotate: false
+  xy: 2, 368
+  size: 174, 179
+  orig: 200, 215
+  offset: 15, 18
+  index: -1
+lattice_frame_animation/ps_glow_08
+  rotate: false
+  xy: 2, 187
+  size: 174, 179
+  orig: 200, 215
+  offset: 15, 18
+  index: -1
+lattice_frame_animation/ps_glow_09
+  rotate: false
+  xy: 2, 6
+  size: 174, 179
+  orig: 200, 215
+  offset: 15, 18
+  index: -1
+lattice_frame_animation/ps_glow_10
+  rotate: false
+  xy: 178, 549
+  size: 174, 179
+  orig: 200, 215
+  offset: 15, 18
+  index: -1
+lattice_frame_animation/ps_glow_11
+  rotate: false
+  xy: 178, 368
+  size: 174, 179
+  orig: 200, 215
+  offset: 15, 18
+  index: -1
+lattice_frame_animation/ps_glow_12
+  rotate: false
+  xy: 178, 187
+  size: 174, 179
+  orig: 200, 215
+  offset: 15, 18
+  index: -1
+lattice_frame_animation/ps_glow_13
+  rotate: false
+  xy: 178, 6
+  size: 174, 179
+  orig: 200, 215
+  offset: 15, 18
+  index: -1
+lattice_frame_animation/ps_glow_14
+  rotate: true
+  xy: 354, 554
+  size: 174, 179
+  orig: 200, 215
+  offset: 15, 18
+  index: -1
+lattice_frame_animation/ps_glow_15
+  rotate: true
+  xy: 535, 554
+  size: 174, 179
+  orig: 200, 215
+  offset: 15, 18
+  index: -1
+lattice_frame_animation/ps_glow_16
+  rotate: true
+  xy: 716, 554
+  size: 174, 179
+  orig: 200, 215
+  offset: 15, 18
+  index: -1

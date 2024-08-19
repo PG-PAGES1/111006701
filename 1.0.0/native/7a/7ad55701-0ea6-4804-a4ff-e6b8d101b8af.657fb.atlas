@@ -1,0 +1,265 @@
+
+quanba-jiesuan.png
+size: 1952,1668
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_start_end_bg/tw_bg
+  rotate: false
+  xy: 1, 263
+  size: 648, 1404
+  orig: 648, 1404
+  offset: 0, 0
+  index: -1
+light_type/loading_flare_b
+  rotate: false
+  xy: 931, 468
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+light_type/tw_button_glow
+  rotate: true
+  xy: 906, 19
+  size: 232, 139
+  orig: 232, 139
+  offset: 0, 0
+  index: -1
+light_type/tw_flare
+  rotate: false
+  xy: 651, 973
+  size: 756, 694
+  orig: 756, 694
+  offset: 0, 0
+  index: -1
+red_boxer_light/f_wave_red_00
+  rotate: false
+  xy: 255, 1
+  size: 30, 28
+  orig: 290, 312
+  offset: 130, 141
+  index: -1
+red_boxer_light/f_wave_red_01
+  rotate: true
+  xy: 1707, 180
+  size: 202, 178
+  orig: 290, 312
+  offset: 41, 67
+  index: -1
+red_boxer_light/f_wave_red_02
+  rotate: true
+  xy: 1689, 1389
+  size: 278, 262
+  orig: 290, 312
+  offset: 9, 25
+  index: -1
+red_boxer_light/f_wave_red_03
+  rotate: false
+  xy: 1207, 689
+  size: 278, 282
+  orig: 290, 312
+  offset: 10, 14
+  index: -1
+red_boxer_light/f_wave_red_04
+  rotate: false
+  xy: 1409, 1079
+  size: 278, 288
+  orig: 290, 312
+  offset: 10, 10
+  index: -1
+red_boxer_light/f_wave_red_05
+  rotate: false
+  xy: 1409, 1369
+  size: 278, 298
+  orig: 290, 312
+  offset: 10, 1
+  index: -1
+red_boxer_light/f_wave_red_06
+  rotate: false
+  xy: 651, 669
+  size: 278, 302
+  orig: 290, 312
+  offset: 10, 0
+  index: -1
+red_boxer_light/f_wave_red_07
+  rotate: false
+  xy: 651, 367
+  size: 276, 300
+  orig: 290, 312
+  offset: 12, 2
+  index: -1
+red_boxer_light/f_wave_red_08
+  rotate: false
+  xy: 931, 675
+  size: 274, 296
+  orig: 290, 312
+  offset: 12, 6
+  index: -1
+red_boxer_light/f_wave_red_09
+  rotate: false
+  xy: 1, 1
+  size: 252, 260
+  orig: 290, 312
+  offset: 25, 16
+  index: -1
+su_fire/loading_fire_00
+  rotate: false
+  xy: 651, 253
+  size: 322, 112
+  orig: 324, 119
+  offset: 2, 7
+  index: -1
+su_fire/loading_fire_01
+  rotate: false
+  xy: 580, 139
+  size: 324, 112
+  orig: 324, 119
+  offset: 0, 7
+  index: -1
+su_fire/loading_fire_02
+  rotate: false
+  xy: 580, 26
+  size: 324, 111
+  orig: 324, 119
+  offset: 0, 8
+  index: -1
+su_fire/loading_fire_03
+  rotate: false
+  xy: 1601, 725
+  size: 324, 109
+  orig: 324, 119
+  offset: 0, 8
+  index: -1
+su_fire/loading_fire_04
+  rotate: false
+  xy: 1207, 578
+  size: 322, 109
+  orig: 324, 119
+  offset: 1, 8
+  index: -1
+su_fire/loading_fire_05
+  rotate: false
+  xy: 1531, 498
+  size: 324, 111
+  orig: 324, 119
+  offset: 0, 8
+  index: -1
+su_fire/loading_fire_06
+  rotate: true
+  xy: 1487, 753
+  size: 324, 112
+  orig: 324, 119
+  offset: 0, 7
+  index: -1
+su_fire/loading_fire_07
+  rotate: false
+  xy: 1601, 950
+  size: 324, 112
+  orig: 324, 119
+  offset: 0, 7
+  index: -1
+su_fire/loading_fire_08
+  rotate: false
+  xy: 1601, 836
+  size: 324, 112
+  orig: 324, 119
+  offset: 0, 7
+  index: -1
+su_fire/loading_fire_09
+  rotate: false
+  xy: 1531, 611
+  size: 324, 112
+  orig: 324, 119
+  offset: 0, 7
+  index: -1
+su_fire/loading_fire_10
+  rotate: false
+  xy: 1138, 464
+  size: 324, 112
+  orig: 324, 119
+  offset: 0, 7
+  index: -1
+su_fire/loading_fire_11
+  rotate: false
+  xy: 1464, 384
+  size: 324, 112
+  orig: 324, 119
+  offset: 0, 7
+  index: -1
+su_fire/loading_fire_12
+  rotate: false
+  xy: 255, 147
+  size: 323, 114
+  orig: 324, 119
+  offset: 1, 5
+  index: -1
+su_fire/loading_fire_13
+  rotate: false
+  xy: 255, 31
+  size: 323, 114
+  orig: 324, 119
+  offset: 1, 5
+  index: -1
+su_fire/loading_fire_14
+  rotate: true
+  xy: 1689, 1064
+  size: 323, 114
+  orig: 324, 119
+  offset: 1, 5
+  index: -1
+su_fire/loading_fire_15
+  rotate: true
+  xy: 1805, 1064
+  size: 323, 114
+  orig: 324, 119
+  offset: 1, 5
+  index: -1
+su_fire/loading_fire_16
+  rotate: true
+  xy: 1596, 64
+  size: 318, 109
+  orig: 324, 119
+  offset: 6, 9
+  index: -1
+su_fire/loading_fire_17
+  rotate: true
+  xy: 1482, 62
+  size: 320, 112
+  orig: 324, 119
+  offset: 4, 7
+  index: -1
+su_fire/loading_fire_18
+  rotate: false
+  xy: 1047, 14
+  size: 322, 110
+  orig: 324, 119
+  offset: 2, 9
+  index: -1
+su_fire/loading_fire_19
+  rotate: false
+  xy: 1047, 239
+  size: 322, 112
+  orig: 324, 119
+  offset: 2, 7
+  index: -1
+su_fire/loading_fire_20
+  rotate: false
+  xy: 1047, 126
+  size: 322, 111
+  orig: 324, 119
+  offset: 2, 8
+  index: -1
+su_fire/loading_fire_21
+  rotate: false
+  xy: 1047, 353
+  size: 324, 109
+  orig: 324, 119
+  offset: 0, 8
+  index: -1
+su_fire/loading_fire_22
+  rotate: true
+  xy: 1371, 27
+  size: 324, 109
+  orig: 324, 119
+  offset: 0, 9
+  index: -1

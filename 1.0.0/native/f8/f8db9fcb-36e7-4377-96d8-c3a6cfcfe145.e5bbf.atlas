@@ -1,0 +1,160 @@
+
+hlst.png
+size: 1840,832
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_boxer_light/f_wave_blue_00
+  rotate: true
+  xy: 1666, 358
+  size: 200, 174
+  orig: 290, 312
+  offset: 39, 72
+  index: -1
+blue_boxer_light/f_wave_blue_01
+  rotate: false
+  xy: 0, 2
+  size: 258, 226
+  orig: 290, 312
+  offset: 9, 48
+  index: -1
+blue_boxer_light/f_wave_blue_02
+  rotate: false
+  xy: 556, 262
+  size: 276, 272
+  orig: 290, 312
+  offset: 8, 22
+  index: -1
+blue_boxer_light/f_wave_blue_03
+  rotate: true
+  xy: 834, 14
+  size: 276, 284
+  orig: 290, 312
+  offset: 8, 14
+  index: -1
+blue_boxer_light/f_wave_blue_04
+  rotate: true
+  xy: 1134, 556
+  size: 276, 292
+  orig: 290, 312
+  offset: 8, 8
+  index: -1
+blue_boxer_light/f_wave_blue_05
+  rotate: false
+  xy: 0, 532
+  size: 276, 300
+  orig: 290, 312
+  offset: 8, 4
+  index: -1
+blue_boxer_light/f_wave_blue_06
+  rotate: false
+  xy: 0, 230
+  size: 276, 300
+  orig: 290, 312
+  offset: 8, 6
+  index: -1
+blue_boxer_light/f_wave_blue_07
+  rotate: false
+  xy: 278, 232
+  size: 274, 298
+  orig: 290, 312
+  offset: 9, 7
+  index: -1
+blue_boxer_light/f_wave_blue_08
+  rotate: true
+  xy: 834, 292
+  size: 264, 290
+  orig: 290, 312
+  offset: 14, 12
+  index: -1
+blue_boxer_light/f_wave_blue_09
+  rotate: false
+  xy: 1428, 556
+  size: 3, 2
+  orig: 290, 312
+  offset: 0, 310
+  index: -1
+light_type/f_chac_glow_blue
+  rotate: false
+  xy: 1608, 106
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+light_type/f_chac_glow_red
+  rotate: false
+  xy: 1414, 106
+  size: 192, 188
+  orig: 192, 188
+  offset: 0, 0
+  index: -1
+red_boxer_light/f_wave_red_00
+  rotate: false
+  xy: 1724, 806
+  size: 28, 26
+  orig: 290, 312
+  offset: 131, 142
+  index: -1
+red_boxer_light/f_wave_red_01
+  rotate: true
+  xy: 260, 28
+  size: 200, 176
+  orig: 290, 312
+  offset: 42, 68
+  index: -1
+red_boxer_light/f_wave_red_02
+  rotate: false
+  xy: 554, 0
+  size: 276, 260
+  orig: 290, 312
+  offset: 10, 26
+  index: -1
+red_boxer_light/f_wave_red_03
+  rotate: true
+  xy: 1120, 0
+  size: 276, 280
+  orig: 290, 312
+  offset: 11, 15
+  index: -1
+red_boxer_light/f_wave_red_04
+  rotate: true
+  xy: 1126, 278
+  size: 276, 286
+  orig: 290, 312
+  offset: 11, 11
+  index: -1
+red_boxer_light/f_wave_red_05
+  rotate: false
+  xy: 556, 536
+  size: 276, 296
+  orig: 290, 312
+  offset: 11, 2
+  index: -1
+red_boxer_light/f_wave_red_06
+  rotate: false
+  xy: 278, 532
+  size: 276, 300
+  orig: 290, 312
+  offset: 11, 1
+  index: -1
+red_boxer_light/f_wave_red_07
+  rotate: true
+  xy: 834, 558
+  size: 274, 298
+  orig: 290, 312
+  offset: 13, 3
+  index: -1
+red_boxer_light/f_wave_red_08
+  rotate: true
+  xy: 1428, 560
+  size: 272, 294
+  orig: 290, 312
+  offset: 13, 7
+  index: -1
+red_boxer_light/f_wave_red_09
+  rotate: false
+  xy: 1414, 296
+  size: 250, 258
+  orig: 290, 312
+  offset: 26, 17
+  index: -1

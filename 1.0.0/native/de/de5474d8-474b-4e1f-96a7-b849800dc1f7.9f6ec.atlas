@@ -1,0 +1,432 @@
+
+mfks.png
+size: 2022,1684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_ember_particle/bw_ember_a_00
+  rotate: false
+  xy: 0, 1580
+  size: 158, 104
+  orig: 184, 188
+  offset: 5, 45
+  index: -1
+bw_ember_particle/bw_ember_a_01
+  rotate: false
+  xy: 0, 1102
+  size: 174, 136
+  orig: 184, 188
+  offset: 1, 33
+  index: -1
+bw_ember_particle/bw_ember_a_02
+  rotate: false
+  xy: 1222, 1051
+  size: 182, 160
+  orig: 184, 188
+  offset: 1, 25
+  index: -1
+bw_ember_particle/bw_ember_a_03
+  rotate: false
+  xy: 0, 918
+  size: 184, 172
+  orig: 184, 188
+  offset: 0, 16
+  index: -1
+bw_ember_particle/bw_ember_a_04
+  rotate: false
+  xy: 186, 908
+  size: 184, 182
+  orig: 184, 188
+  offset: 0, 6
+  index: -1
+bw_ember_particle/bw_ember_a_05
+  rotate: false
+  xy: 372, 902
+  size: 184, 184
+  orig: 184, 188
+  offset: 0, 4
+  index: -1
+bw_ember_particle/bw_ember_a_06
+  rotate: false
+  xy: 558, 902
+  size: 184, 184
+  orig: 184, 188
+  offset: 0, 2
+  index: -1
+bw_ember_particle/bw_ember_a_07
+  rotate: true
+  xy: 744, 892
+  size: 184, 188
+  orig: 184, 188
+  offset: 0, 0
+  index: -1
+bw_ember_particle/bw_ember_a_08
+  rotate: true
+  xy: 934, 890
+  size: 184, 188
+  orig: 184, 188
+  offset: 0, 0
+  index: -1
+bw_ember_particle/bw_ember_a_09
+  rotate: false
+  xy: 1580, 1041
+  size: 182, 170
+  orig: 184, 188
+  offset: 2, 1
+  index: -1
+bw_ember_particle/bw_ember_a_10
+  rotate: false
+  xy: 1764, 1041
+  size: 184, 170
+  orig: 184, 188
+  offset: 0, 1
+  index: -1
+bw_ember_particle/bw_ember_a_11
+  rotate: false
+  xy: 878, 1078
+  size: 168, 156
+  orig: 184, 188
+  offset: 3, 16
+  index: -1
+bw_ember_particle/bw_ember_a_12
+  rotate: false
+  xy: 1406, 1049
+  size: 172, 162
+  orig: 184, 188
+  offset: 1, 12
+  index: -1
+bw_ember_particle/bw_ember_a_13
+  rotate: false
+  xy: 1048, 1076
+  size: 172, 158
+  orig: 184, 188
+  offset: 2, 13
+  index: -1
+bw_ember_particle/bw_ember_a_14
+  rotate: false
+  xy: 176, 1092
+  size: 174, 146
+  orig: 184, 188
+  offset: 1, 12
+  index: -1
+bw_ember_particle/bw_ember_a_15
+  rotate: false
+  xy: 528, 1088
+  size: 174, 148
+  orig: 184, 188
+  offset: 1, 11
+  index: -1
+bw_ember_particle/bw_ember_a_16
+  rotate: false
+  xy: 704, 1088
+  size: 172, 148
+  orig: 184, 188
+  offset: 3, 10
+  index: -1
+bw_ember_particle/bw_ember_a_17
+  rotate: false
+  xy: 352, 1092
+  size: 174, 146
+  orig: 184, 188
+  offset: 2, 9
+  index: -1
+bw_ember_particle/bw_ember_a_18
+  rotate: true
+  xy: 1772, 1554
+  size: 130, 140
+  orig: 184, 188
+  offset: 30, 9
+  index: -1
+light_type/loading_circle
+  rotate: false
+  xy: 0, 499
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+light_type/loading_flare_b
+  rotate: false
+  xy: 894, 683
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+light_type/loading_title_glow
+  rotate: false
+  xy: 1111, 402
+  size: 540, 237
+  orig: 540, 237
+  offset: 0, 0
+  index: -1
+reel_ui/f_boss
+  rotate: true
+  xy: 0, 114
+  size: 370, 621
+  orig: 370, 621
+  offset: 0, 0
+  index: -1
+reel_ui/f_fighter
+  rotate: true
+  xy: 623, 0
+  size: 400, 673
+  orig: 400, 673
+  offset: 0, 0
+  index: -1
+su_fire/loading_fire_00
+  rotate: false
+  xy: 1292, 1464
+  size: 320, 111
+  orig: 324, 119
+  offset: 3, 8
+  index: -1
+su_fire/loading_fire_01
+  rotate: false
+  xy: 1614, 1441
+  size: 322, 111
+  orig: 324, 119
+  offset: 1, 8
+  index: -1
+su_fire/loading_fire_02
+  rotate: false
+  xy: 0, 1466
+  size: 322, 109
+  orig: 324, 119
+  offset: 1, 9
+  index: -1
+su_fire/loading_fire_03
+  rotate: false
+  xy: 160, 1577
+  size: 322, 107
+  orig: 324, 119
+  offset: 1, 9
+  index: -1
+su_fire/loading_fire_04
+  rotate: false
+  xy: 484, 1577
+  size: 320, 107
+  orig: 324, 119
+  offset: 2, 9
+  index: -1
+su_fire/loading_fire_05
+  rotate: false
+  xy: 324, 1466
+  size: 322, 109
+  orig: 324, 119
+  offset: 1, 9
+  index: -1
+su_fire/loading_fire_06
+  rotate: false
+  xy: 0, 1353
+  size: 322, 111
+  orig: 324, 119
+  offset: 1, 8
+  index: -1
+su_fire/loading_fire_07
+  rotate: false
+  xy: 324, 1353
+  size: 324, 111
+  orig: 324, 119
+  offset: 0, 8
+  index: -1
+su_fire/loading_fire_08
+  rotate: false
+  xy: 650, 1353
+  size: 324, 111
+  orig: 324, 119
+  offset: 0, 8
+  index: -1
+su_fire/loading_fire_09
+  rotate: false
+  xy: 976, 1351
+  size: 324, 111
+  orig: 324, 119
+  offset: 0, 8
+  index: -1
+su_fire/loading_fire_10
+  rotate: false
+  xy: 1302, 1328
+  size: 324, 111
+  orig: 324, 119
+  offset: 0, 8
+  index: -1
+su_fire/loading_fire_11
+  rotate: false
+  xy: 1628, 1328
+  size: 324, 111
+  orig: 324, 119
+  offset: 0, 8
+  index: -1
+su_fire/loading_fire_12
+  rotate: false
+  xy: 642, 1238
+  size: 322, 113
+  orig: 324, 119
+  offset: 2, 6
+  index: -1
+su_fire/loading_fire_13
+  rotate: false
+  xy: 966, 1236
+  size: 322, 113
+  orig: 324, 119
+  offset: 2, 6
+  index: -1
+su_fire/loading_fire_14
+  rotate: false
+  xy: 1290, 1213
+  size: 322, 113
+  orig: 324, 119
+  offset: 2, 6
+  index: -1
+su_fire/loading_fire_15
+  rotate: false
+  xy: 1614, 1213
+  size: 322, 113
+  orig: 324, 119
+  offset: 2, 6
+  index: -1
+su_fire/loading_fire_16
+  rotate: false
+  xy: 806, 1577
+  size: 316, 107
+  orig: 324, 119
+  offset: 7, 10
+  index: -1
+su_fire/loading_fire_17
+  rotate: false
+  xy: 0, 1240
+  size: 318, 111
+  orig: 324, 119
+  offset: 5, 8
+  index: -1
+su_fire/loading_fire_18
+  rotate: false
+  xy: 648, 1466
+  size: 320, 109
+  orig: 324, 119
+  offset: 3, 10
+  index: -1
+su_fire/loading_fire_19
+  rotate: false
+  xy: 320, 1240
+  size: 320, 111
+  orig: 324, 119
+  offset: 3, 8
+  index: -1
+su_fire/loading_fire_20
+  rotate: false
+  xy: 970, 1466
+  size: 320, 109
+  orig: 324, 119
+  offset: 3, 9
+  index: -1
+su_fire/loading_fire_21
+  rotate: false
+  xy: 1124, 1577
+  size: 322, 107
+  orig: 324, 119
+  offset: 1, 9
+  index: -1
+su_fire/loading_fire_22
+  rotate: false
+  xy: 1448, 1577
+  size: 322, 107
+  orig: 324, 119
+  offset: 1, 10
+  index: -1
+su_particle/loading_ember_00
+  rotate: false
+  xy: 1399, 641
+  size: 304, 202
+  orig: 378, 212
+  offset: 49, 6
+  index: -1
+su_particle/loading_ember_01
+  rotate: false
+  xy: 813, 449
+  size: 296, 206
+  orig: 378, 212
+  offset: 47, 6
+  index: -1
+su_particle/loading_ember_02
+  rotate: false
+  xy: 511, 486
+  size: 300, 204
+  orig: 378, 212
+  offset: 45, 6
+  index: -1
+su_particle/loading_ember_03
+  rotate: false
+  xy: 1705, 639
+  size: 304, 202
+  orig: 378, 212
+  offset: 43, 9
+  index: -1
+su_particle/loading_ember_04
+  rotate: false
+  xy: 1424, 845
+  size: 298, 194
+  orig: 378, 212
+  offset: 58, 11
+  index: -1
+su_particle/loading_ember_05
+  rotate: false
+  xy: 1724, 843
+  size: 298, 196
+  orig: 378, 212
+  offset: 57, 9
+  index: -1
+su_particle/loading_ember_06
+  rotate: false
+  xy: 1101, 657
+  size: 296, 200
+  orig: 378, 212
+  offset: 57, 12
+  index: -1
+su_particle/loading_ember_07
+  rotate: false
+  xy: 0, 710
+  size: 294, 196
+  orig: 378, 212
+  offset: 58, 15
+  index: -1
+su_particle/loading_ember_08
+  rotate: false
+  xy: 211, 498
+  size: 298, 202
+  orig: 378, 212
+  offset: 55, 4
+  index: -1
+su_particle/loading_ember_09
+  rotate: false
+  xy: 1124, 859
+  size: 298, 188
+  orig: 378, 212
+  offset: 56, 6
+  index: -1
+su_particle/loading_ember_10
+  rotate: false
+  xy: 594, 692
+  size: 298, 198
+  orig: 378, 212
+  offset: 57, 7
+  index: -1
+su_particle/loading_ember_11
+  rotate: false
+  xy: 296, 702
+  size: 296, 198
+  orig: 378, 212
+  offset: 54, 7
+  index: -1
+
+mfks2.png
+size: 756,1638
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_start_end_bg/loading_bg
+  rotate: false
+  xy: 0, 0
+  size: 756, 1638
+  orig: 756, 1638
+  offset: 0, 0
+  index: -1
